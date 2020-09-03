@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "syrus-mldo",
+  "private_key_id": "f8c2faa2e37736d24b10c64e43cf176575c1a987",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCfHmHC1MVFXOO2\nE6mt5g/TtmiRaIyQiwJb70KoHupUkHpfRzoTD3cGz3WLUcFyx+XvnCTsFVm39iMS\nqnPrVQaVH/77X6KGw5oSrauFL6vhNrCK6R4nS98AtGeaSepzYsD/ORj/nMpE8ebU\n/DOl86i1Jv+1zCVEb+h39LagpqLHU4m2ebc7LZJafe3s6F3qykp3kNWsg/wX/gJB\n4ITnkL85nGEd11Nb7P+/JStvhKxGHpl/9SFrEOGp00cIxjcw4kvqERH6+JF1Npu1\nCwzhKmZZHT5RjUzKvNElmwkGm3XG5KF9Tw/mTN2jRwJSW3HeJxkeBxCQ9V+2lE2M\nfMgSHCs1AgMBAAECggEAE6wXbRWOMCWsV3n12/SaF1QxeGzDGCm/iGs7w/pSgVL9\ndiMhuHKMhjCG+UsJzi2NrYKSBAgduAM70dZ2D23LKwuyJBTuTJgJR+7lykkbCHSQ\n/hOVMUmNkBI9ztL9o/ddIhDGmO+jCEQaBFIL9qP5wy/HpIvRPbVSOeZs387KSDdH\nOSzuEHsx/ORHU/Dt2EM6RlZLmByvPvkxhmXjQlTmAnT8YzXHHt0Iq4UmsNLkaSJw\nOVzONVqWIR14zkMJ9+9YH7LaEMax1Y79d0/D+xze6ZFvMFPN02RRr11egZ0ykRuu\nGSzMl+ljpUlVed1tuJqAV60tMbCpqJnIsMqA/tyvXwKBgQDa12Sg3+uNrmcMNzSs\nzPu1nGpCSLXeTvpMVFmP8om0KiFR1EIk6GCRgbLU2xG1E5HNqu2Y2Fj4wmw84Bzb\nmCj5GJ2g4sKhqYX3mcovBrmlTVCagPs4ax8gGs48h8xMOblKex8Rsxpy7OZmntSt\n2GTZh/mfdUMZZsv/yewTS+7ITwKBgQC6IvW0qr5AYmanD+nyk1rEpEiO/DoxMgnv\nWWVZtQ7eNzY3/dwSEw1ObAYJ/nLExUxw+H58tD9TyLhqY/BkbaJN94oqidmw6co7\nfDo8+XSv2C18oOC/K7924qwiKo3hhUNAO6WEwdmJq46B+fyY5OCAopBIFgeSFZoK\nCIreJvqvOwKBgQC8mtotFA8MwnwpOQL60oc01CN4EPY9LE/nrOKrftpTHeQthAOl\nj2h6vw8DB/LQ3pbQbDnterfjXJywMm5si0z0sdRYLlaTwWimJjLsKJ2i62lGX1ck\nHp5qqu+Hl3npT+5zVH1IYdWvqqA/XS/qzA7Os7PdS9CSedfjEYGWd+DJXQKBgHrg\nmVOrY+0dCKdA2jBJFqK50SyTVdckMWrQmRefbzFDQYe1DpLgAOjEZzgxwZIkrVHm\nuZmZZDTrTNLvJsMlnP/balqqpgskS1z5pXibNWzgSSb9DWEmgD77ZKcpcIBwePTu\na1Y4omM/3dPwM9C7R3mj15u+70CBAi+ddA8zrEoBAoGAE5tRIb9wn0lvfJWia50G\n9sGm5tKjHTH0FTPtWnW+QUWJM1R7ZVffFhYKlUGHm1kNMb2kwogPqxC0JgFUCy1+\no5I8gIs/MY5/ARBOsPcNwTl0mjN76VyeB8DHO/I1DfbDAk1tyckZx2yf+kDuTlkm\n1bhJWXQUKIAmiMW2z7UZiCI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-ijubel@syrus-mldo.iam.gserviceaccount.com",
+  "client_id": "105203960826161691432",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-ijubel%40syrus-mldo.iam.gserviceaccount.com"
+}
